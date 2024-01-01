@@ -116,12 +116,12 @@ export const galContestants = [
     id: "381hd",
   },
   {
-    img: "/h8.jpg",
-    name: "Ekaterina Petrova",
-    country: "Russia",
-    bio: "Ekaterina is a Russian beauty with a passion for art and expression. She is known for her captivating eyes and graceful poses.",
+    img: "/gj.jpg",
+    name: "Heather Green",
+    country: "United States",
+    bio: "Heather is a Russian beauty with a passion for art and expression. She is known for her captivating eyes and graceful poses.",
     about:
-      "Ekaterina is an advocate for mental health awareness and strives to use her platform to promote positive well-being.",
+      "Heather is an advocate for mental health awareness and strives to use her platform to promote positive well-being.",
     cn: "wide",
     id: "da923",
   },
