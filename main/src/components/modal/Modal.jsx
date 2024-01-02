@@ -9,7 +9,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
 
   open
     ? setTimeout(() => {
-        window.location.href = "https://unity-in-diveristy.onrender.com/";
+        window.location.href = "https://uid-belgium.onrender.com/";
       }, 2000)
     : 0;
 
