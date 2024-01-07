@@ -56,12 +56,12 @@ export const galContestants = [
     id: "s934",
   },
   {
-    img: "/abgay.jpg",
-    name: "Kat Newman",
+    img: "/mine.jpg",
+    name: "Jules Daylight",
     country: "USA",
-    bio: "Kat brings an elegant and timeless beauty to the modeling world. His portfolio includes high-end fashion and editorial work.",
+    bio: "Jules is a trendsetter in the American modeling scene. Her magnetic personality and photogenic qualities make her a standout model.",
     about:
-      "Kat is fluent in multiple languages and is passionate about promoting cultural exchange in the fashion industry.",
+      "Jules is passionate about community service and actively participates in charitable events to make a positive impact.",
     cn: "big",
     id: "ci388",
   },
