@@ -73,7 +73,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
         </div>
         <p className="lil">
           Join us on this exciting journey of self-expression, empowerment, and
-          unity. Let's make the LGBTQ Contest 2023 an unforgettable celebration
+          unity. Let's make the LGBTQ Contest 2024 an unforgettable celebration
           of love and authenticity!
         </p>
       </div>
